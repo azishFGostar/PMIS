@@ -1,0 +1,198 @@
+.detbl
+{
+direction:ltr; border-spacing:0px;
+border-collapse: collapse;
+border: 0px none black;
+}
+.de_list
+{
+margin: 0;padding: 0;
+}
+div.p
+{
+margin-top:0px;
+margin-bottom:0px;
+font-weight:normal;
+}
+
+div.description_on_page div.p,
+ div.description_on_page div.p a,
+ .m-pageContent__side__header div.p,
+ .m-pageContent__side__header div.p a,
+ .m-pageContent__side__footer div.p,
+ .m-pageContent__side__footer div.p a,
+ .m-pageContent__side__right div.p,
+ .m-pageContent__side__right div.p a,
+ .m-pageContent__side__left div.p,
+ .m-pageContent__side__left div.p a
+{
+font-family:"Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 12pt;color:#000000;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+}
+h1
+{
+font-family:"Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 16pt;color:#50a0dc;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+display:inline;
+margin:0;
+padding:0;
+}
+h2
+{
+font-family:"Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14pt;color:#3c78aa;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+display:inline;
+margin:0;
+padding:0;
+}
+h3
+{
+font-family:"Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 12pt;color:#000000;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+display:inline;
+margin:0;
+padding:0;
+}
+span.code
+{
+font-family:"Courier New";
+font-size: 12pt;color:#000000;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+}
+span.quote
+{
+font-family:"Georgia";
+font-size: 12pt;color:#000000;
+font-style:italic;
+text-decoration:none;
+font-weight:normal;
+}
+img.de_75F9C4A440
+{
+margin-top: 3px; margin-right: 3px; margin-bottom: 3px; margin-left: 3px;}
+img.de_780D01ADE8
+{
+margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;}
+img.de_D7A9C94272
+{
+margin-top: 8px; margin-right: 8px; margin-bottom: 8px; margin-left: 8px;}
+span.de_0883C9DA15
+{
+	font-family: "B Titr";
+}
+span.de_1E06B564E4
+{
+	font-family: "Nazanin";
+	font-size: 16pt;
+	color:#ffa800;
+}
+span.de_37CAF83E08
+{
+	font-family: "Nazanin";
+	font-size: 16pt;
+	color:#800000;
+}
+span.de_4CB9084DF9
+{
+	font-family: "Titr";
+}
+span.de_5AB6DC37F2
+{
+	font-family: "Nazanin";
+	color:#000000;
+}
+span.de_630ED648C5
+{
+	font-family: "Nazanin";
+	font-size: 16pt;
+}
+span.de_63214347B1
+{
+	font-family: "Nazanin";
+	font-size: 16pt;
+	color:#0012ff;
+}
+span.de_7281451556
+{
+	font-family: "Nazanin";
+	font-size: 16pt;
+	color:#d800ff;
+}
+span.de_80F3850657
+{
+	font-family: "Nazanin";
+	font-size: 16pt;
+	color:#ff003c;
+}
+span.de_82FC0E42BD
+{
+	font-family: "Nazanin";
+	font-size: 16pt;
+	color:#25da2d;
+}
+span.de_980928681C
+{
+	font-family: "B Nazanin";
+	font-size: 16pt;
+}
+span.de_BDC4BF3262
+{
+	font-family: "Nazanin";
+	font-size: 16pt;
+	color:#6000ff;
+}
+span.de_C58BFEEC72
+{
+	font-family: "Nazanin";
+	font-size: 14pt;
+}
+span.de_C5CA4C4004
+{
+	font-family: "Nazanin";
+}
+span.de_C919EC059C
+{
+	font-family: "Titr";
+	color:#000000;
+}
+span.de_D3217F9BE2
+{
+	font-family: "Nazanin";
+	font-size: 16pt;
+	color:#000000;
+}
+.list-element {
+	list-style-type: none;
+}
+.list-counter-0 > div > * {
+	text-indent: 0px;}
+.list-counter-0 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: right;
+	padding: 0;
+	margin: 0;
+	content: '\00a0' counter(list-counter-0, disc) '';
+	counter-increment: list-counter-0;
+}
+.list-counter-0 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: right;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
